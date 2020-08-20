@@ -9,6 +9,7 @@ for (let i = 0; i <= firstRow.length; i++) {
     }
 }
 
+
 for (let i = 0; i <= secondRow.length; i++) {
     if (secondRow.charAt(i) === 'а') {
         toString += i
