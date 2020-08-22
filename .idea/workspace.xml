@@ -55,7 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jsmarathon3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -80,7 +80,7 @@
       <workItem from="1597851933868" duration="7847000" />
       <workItem from="1597897178301" duration="189000" />
       <workItem from="1597897397109" duration="1114000" />
-      <workItem from="1598078705351" duration="2691000" />
+      <workItem from="1598078705351" duration="4517000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;function for determining the number of letters">
       <created>1597857522727</created>
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597857522727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&#10;function for determining the number of letters">
+      <created>1598081706410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598081706411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,10 +123,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1597897217954" />
-    <state x="219" y="0" width="981" height="728" key="CommitChangelistDialog2" timestamp="1597858375381">
+    <state x="219" y="0" width="981" height="728" key="CommitChangelistDialog2" timestamp="1598093386780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="219" y="0" width="981" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597858375381" />
+    <state x="219" y="0" width="981" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598093386780" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598095256253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598095256253" />
     <state x="558" y="262" key="Github.ShareDialog" timestamp="1597690454898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -132,9 +143,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597897208145" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597858359530">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1598081774983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597858359530" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598081774983" />
   </component>
 </project>
