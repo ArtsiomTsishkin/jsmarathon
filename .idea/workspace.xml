@@ -24,7 +24,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e86d58cd-80b1-4460-9409-6d691e639b76" name="Default Changelist" comment="&#10;function for determining the number of letters" />
+    <list default="true" id="e86d58cd-80b1-4460-9409-6d691e639b76" name="Default Changelist" comment="&#10;function for determining the number of letters">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +79,8 @@
       <workItem from="1597690189322" duration="640000" />
       <workItem from="1597851933868" duration="7847000" />
       <workItem from="1597897178301" duration="189000" />
+      <workItem from="1597897397109" duration="1114000" />
+      <workItem from="1598078705351" duration="2691000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;function for determining the number of letters">
       <created>1597857522727</created>
