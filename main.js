@@ -1,4 +1,5 @@
     const $btn = document.getElementById('btn-kick')
+    const $btnStrike = document.getElementById('btn-kick-strike')
 
     const character = {
         name: "Pikachu",
@@ -20,6 +21,13 @@
         changeHP(random(20), character)
         changeHP(random(20), enemy)
     })
+    $btnStrike.addEventListener('click', () => {
+
+        changeHP(random(40), character)
+        changeHP(random(40), enemy)
+
+    })
+
 
     init = () => {
         console.log('Start game!')
@@ -43,6 +51,7 @@
         person.damageHP=0
         alert('Покемон' +' ' + person.name + ' ' +'проиграл')
         $btn.disabled = true
+
     } else {
         person.damageHP -= count
     }
