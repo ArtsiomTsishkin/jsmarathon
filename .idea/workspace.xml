@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/homework-3" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e86d58cd-80b1-4460-9409-6d691e639b76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="e86d58cd-80b1-4460-9409-6d691e639b76" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,10 +56,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jsmarathon" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -43,6 +71,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,14 +84,109 @@
       <option name="presentableId" value="Default" />
       <updated>1597690187700</updated>
       <workItem from="1597690189322" duration="640000" />
-      <workItem from="1597851933868" duration="5325000" />
+      <workItem from="1597851933868" duration="7847000" />
+      <workItem from="1597897178301" duration="189000" />
+      <workItem from="1597897397109" duration="1114000" />
+      <workItem from="1598078705351" duration="4517000" />
+      <workItem from="1598095869944" duration="1686000" />
+      <workItem from="1598114022104" duration="5589000" />
+      <workItem from="1598164436858" duration="1055000" />
+      <workItem from="1598366889598" duration="110000" />
+      <workItem from="1598367135833" duration="3073000" />
     </task>
+    <task id="LOCAL-00001" summary="&#10;function for determining the number of letters">
+      <created>1597857522727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597857522727</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#10;function for determining the number of letters">
+      <created>1598081706410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598081706411</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homeWork-3">
+      <created>1598096038275</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598096038275</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homeWork-3 + pictures">
+      <created>1598096704238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598096704238</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homeWork-3 + main.js">
+      <created>1598124734461</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598124734461</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+ button">
+      <created>1598370100982</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598370100982</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/homework-3" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&#10;function for determining the number of letters" />
+    <MESSAGE value="homeWork-3" />
+    <MESSAGE value="homeWork-3 + pictures" />
+    <MESSAGE value="homeWork-3 + main.js" />
+    <MESSAGE value="+ button" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ button" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="438" y="188" key="#Notifications" timestamp="1597897217954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1597897217954" />
+    <state x="219" y="0" width="981" height="728" key="CommitChangelistDialog2" timestamp="1598165471892">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="219" y="0" width="981" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598165471892" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598369061305">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598369061305" />
     <state x="558" y="262" key="Github.ShareDialog" timestamp="1597690454898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -69,5 +195,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="562" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597690354035" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1597897208145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597897208145" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1598124741223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598124741223" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1598124537503">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598124537503" />
   </component>
 </project>
